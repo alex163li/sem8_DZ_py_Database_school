@@ -27,3 +27,7 @@
 3. Алексей Лялин (@AlexLi193) - архитектура, controller, controller (sort)
 4. Виктория Мордвинова (@vikivrazovski) - архитектура, controller (sort), блок схема
 5. Александр @Oh_hi_Alex - архитектура, controller, model
+
+** Блок-Схема
+
+![блок-схема](https://raw.githubusercontent.com/alex163li/sem8_DZ_py_Database_school/master/abs.png)
